@@ -4,12 +4,12 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    title: 我的简历
+    url: 'http://www.ttggs.com'
+   # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
+    name: 陈少毅(Dolm Chen)
     tagline: Full Stack Developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
@@ -23,15 +23,17 @@ sidebar:
 
     languages:
         - language:
-          idiom: English
-          level: Native
+          idiom: 中文
+          level: 母语
         - language:
-          idiom: French
+          idiom: 英语
           level: Professional
         - language:
           idiom: Spanish
           level: Professional
-        
+        - language:
+          idiom: Spanish
+          level: Professional       
     interests:
         - interest:
           item: Climbing
@@ -55,9 +57,9 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: 计算机应用
+      university: 厦门理工学院
+      time: 1997 - 2000
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
