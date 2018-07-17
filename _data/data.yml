@@ -58,7 +58,7 @@ career-profile:
 studies: 
     - 教育:
       专业: 计算机应用
-      university: 厦门理工学院
+      大学: 厦门理工学院
       时间: 1997 - 2000
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
@@ -69,12 +69,12 @@ studies:
 
 
 experiences:
-    title: Experiences
+    title: 工作经验
     
     
     experiences:
         - role: Lead Developer
-          time: 2015 - Present
+          time: 2017 - 至今
           company: Startup Hubs, San Francisco
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
@@ -139,8 +139,8 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 
-skills:
-    title: 技能与熟练程度
+skills: 
+    title: Skill
     skills:
         - skill:
           name: Java(Spring Boot,Spring MVC)
@@ -148,7 +148,7 @@ skills:
         - skill:
           name: C#
           level: 80%
-       - skill:
+        - skill:
           name: Node.JS
           level: 80%
         - skill:
@@ -161,7 +161,7 @@ skills:
           name: HTML5 & CSS
           level: 95%
         - skill:
-          name: 数据库(Oracle & MySQL & MSSQL & SQLite &
+          name: 数据库(Oracle & MySQL & SQL Server & SQLite &
           level: 95%
         - skill:
           name: Python
