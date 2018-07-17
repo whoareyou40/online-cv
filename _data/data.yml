@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: 陈少毅(Dolm Chen)
-    tagline: Full Stack Developer
+    tagline: 资深顾问/技术专家
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -21,7 +21,7 @@ sidebar:
     #github: whoareyou40
     #twitter: '@webjeda'
 
-    languages:
+    语言:
         - language:
           idiom: 中文
           level: 母语
@@ -34,7 +34,7 @@ sidebar:
         - language:
           idiom: 英语
           level: 熟练       
-    interests:
+    兴趣:
         - interest:
           item: Climbing
           link:
@@ -73,20 +73,26 @@ experiences:
     
     
     experiences:
-        - role: Lead Developer
+        - role: GIS高级顾问/技术专家
           time: 2017 - 至今
-          company: Startup Hubs, San Francisco
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-        
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          company: 创锐软件科技, 深圳
+          details: 为GIS在商业地产，智能停车，小区物管结合提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
+        - role: GIS高级顾问/GIS技术经理
+          time: 2014 - 2017
+          company: 创锐软件科技, 深圳
+          details: 为GIS在商业地产，智能停车，小区物管结合提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
+        - role: GIS软件高级工程师
+          time: 2008 - 2013
+          company: 艾奕康咨询(AECOM), 深圳
+          details:系统设计、软件编程、平台测试、配制管理、关键技术支持、项目文档编写。
+        - role: 高级软件工程师
+          time: 2006 - 2008
+          company: 凯立德, 深圳
+          details:负责部门相关软件项目的程序编码，参与软件项目开发流程，实施项目部署，负责软件开发的进度控制，资源控制。
+        - role: 软件工程师
+          time: 2001 - 2005
+          company: 优联网络, 厦门
+          details: 公司江湖游戏网站的开发，维护，推广及售后服务，OA系统开发。
 
 
 projects:
@@ -96,19 +102,19 @@ projects:
     
     projects:
       - project:
-        title: 跨境电商大数据分析
-        link: "#hook"
-        tagline: "百度eChart,亚马逊MWS,Spirng Boot,MySQL"
-      - project:
         title: 智慧农业
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Javascript,Openlayers,GeoServer,CesiumJS,PostGIS"
       - project:
-        title: Tempo
+        title: 跨境电商大数据分析平台
+        link: "#hook"
+        tagline: "百度ECharts,D3.js,亚马逊MWS,Spirng Boot,MySQL"
+      - project:
+        title: 商业地产分析GIS系统
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Autodesk Infrastructure Map Server(Mapguide),Oracle,C#"
       - project:
-        title: Atom
+        title: 智能停车App系统Android版
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
       - project:
