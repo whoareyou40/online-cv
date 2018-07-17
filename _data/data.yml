@@ -84,7 +84,7 @@ experiences:
         - role: GIS软件高级工程师
           time: 2008 - 2013
           company: 艾奕康咨询(AECOM), 深圳
-          details:系统设计、软件编程、平台测试、配制管理、关键技术支持、项目文档编写。
+          details: 系统设计、软件编程、平台测试、配制管理、关键技术支持、项目文档编写。
         - role: 高级软件工程师
           time: 2006 - 2008
           company: 凯立德, 深圳
@@ -116,7 +116,7 @@ projects:
       - project:
         title: 智能停车App系统Android版
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Android,SQLite"
       - project:
         title: Delta
         link: "#"
