@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: 我的简历
-    url: 'http://www.ttggs.com'
+    url: 'http://cv.ttggs.com'
    # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -42,7 +42,7 @@ sidebar:
           item: Snowboarding
           link:
         - interest:
-          item: Cooking
+          item: Swimming
           link:
 
         
@@ -51,8 +51,8 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: 职业生涯简介
+    text: '拥有超过 12 年的软件开发经验以及超过10年GIS系统开发经验，尤其擅长基于 JavaEE 技术的开发。他在前台（浏览器端）和后台（服务器端）开发技术方面经验丰富，同时对数据库开发也非常熟悉。 从数据库开发到网络开发，均有能力为客户提供全面的技术解决方案。曾为香港特区政府部门，如环境保护署、路政署、渠务署和香港房屋委员会提供技术支持和咨询服务。拥有带领团队协调工作完成项目的成功经验。主要负责文档编写，系统分析，系统框架设计及核心功能的开发。现在致力于研究移动端GIS在各行业的使用，以解决移动定位，移动办公等越来越迫切的需求。'
 
 
 studies: 
@@ -60,10 +60,10 @@ studies:
       专业: 计算机应用
       大学: 厦门理工学院
       时间: 1997 - 2000
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      #details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem."
 
 
 
@@ -165,13 +165,13 @@ skills:
           name: HTML5 & CSS
           level: 95%
         - skill:
-          name: 数据库(Oracle & MySQL & SQL Server & SQLite &
+          name: Oracle & MySQL & SQL Server & SQLite 
           level: 95%
         - skill:
           name: Python
           level: 60%
         - skill:
-          name: 开源GIS(Openlayers,GeoServer,Mapguide,PostGIS)
+          name: GIS(Openlayers,GeoServer,Mapguide,PostGIS)
           level: 90%
         - skill:
           name: Linux
