@@ -75,8 +75,8 @@ experiences:
     experiences:
         - role: GIS高级顾问/技术专家
           time: 2017 - 至今
-          company: 创锐软件科技, 深圳
-          details: 为GIS在商业地产，智能停车，小区物管结合提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
+          company: 大秉科技, 厦门
+          details: 为GIS在智慧农业应用提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
         - role: GIS高级顾问/GIS技术经理
           time: 2014 - 2017
           company: 创锐软件科技, 深圳
@@ -84,7 +84,7 @@ experiences:
         - role: GIS软件高级工程师
           time: 2008 - 2013
           company: 艾奕康咨询(AECOM), 深圳
-          details: 系统设计、软件编程、平台测试、配制管理、关键技术支持、项目文档编写。
+          details: 系统设计，软件编程，平台测试，配制管理，关键技术支持，项目文档编写。
         - role: 高级软件工程师
           time: 2006 - 2008
           company: 凯立德, 深圳
@@ -104,25 +104,23 @@ projects:
       - project:
         title: 智慧农业
         link: "#"
-        tagline: "Javascript,Openlayers,GeoServer,CesiumJS,PostGIS"
+        tagline: "Javascript,Openlayers,GeoServer,CesiumJS,PostGIS,Linux"
       - project:
         title: 跨境电商大数据分析平台
         link: "#hook"
-        tagline: "百度ECharts,D3.js,亚马逊MWS,Spirng Boot,MySQL"
+        tagline: "ECharts,D3.js,Amazon MWS,Spirng Boot,MySQL,AWS,Linux"
       - project:
         title: 商业地产分析GIS系统
         link: "#"
-        tagline: "Autodesk Infrastructure Map Server(Mapguide),Oracle,C#"
+        tagline: "Autodesk Infrastructure Map Server(Mapguide),JQuery,C#,Oracle,Windows Server"
       - project:
         title: 智能停车App系统Android版
         link: "#"
-        tagline: "Android,SQLite"
+        tagline: "Android,SQLite,Bmob"
       - project:
         title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
 
 
 
