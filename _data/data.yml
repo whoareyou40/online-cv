@@ -36,14 +36,14 @@ sidebar:
           level: 熟练       
     interests:
         - interest:
-          item: Climbing
-          link:
-        - interest:
-          item: Snowboarding
+          item: Reading
           link:
         - interest:
           item: Swimming
           link:
+        - interest:
+          item: 
+          link: Soccer
 
         
 
@@ -55,8 +55,8 @@ career-profile:
     text: '拥有超过 15 年的软件开发经验，特别专注于GIS在各个领域的应用。<br>
     在前端和后端开发技术方面经验丰富，同时对数据库开发也非常熟悉。<br> 
     熟悉软件开发流程和项目管理，包括需求分析，项目功能描述，软件设计与实现，测试部署与维护。<br>
-    近年来较为关注GIS在数据可视化中的应用。<br>
-    对新技术，新事物充满热情'
+    近年来致力于GIS在数据可视化中的应用。<br>
+    对新技术，新事物充满热情。'
 
 
 
