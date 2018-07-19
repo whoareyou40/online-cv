@@ -160,8 +160,7 @@ publications:
         title: 史莱姆的故事(Slime Story)
         authors: Android游戏
         conference: <a href="http://sj.qq.com/myapp/detail.htm?apkName=com.ttggs.slimestory" target="_blank" rel="nofollow">应用宝</a>
-
-
+        
 skills: 
     title: Skill
     skills:
@@ -172,20 +171,23 @@ skills:
           name: C#
           level: 80%
         - skill:
-          name: Node.JS
-          level: 80%
+          name: JavaScript
+          level: 95%
         - skill:
           name: Android
           level: 90%
         - skill:
-          name: JavaScript
-          level: 95%
-       - skill:
-          name: React & VUE
-          level: 30%
-         - skill:
+          name: Node.JS
+          level: 80%
+        - skill:
+          name: VB.Net
+          level: 70%
+        - skill:
           name: Python
           level: 60%
+        - skill:
+          name: React & VUE
+          level: 30%
         - skill:
           name: HTML5 & CSS
           level: 90%
@@ -193,8 +195,11 @@ skills:
           name: 关系型数据库
           level: 95%
         - skill:
-          name: GIS(Openlayers,GeoServer,Mapguide,PostGIS)
+          name: 开源GIS
           level: 90%
+        - skill:
+          name: 商业GIS
+          level: 80%
         - skill:
           name: Linux
           level: 70%
