@@ -126,16 +126,16 @@ projects:
 
 
 publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    title: 个人作品
+    intro: "业余时间做的一些小东西"
     
     publications:
       - paper:
-        title: The Art of Computer Programming
+        title: "世界杯投注指南"
         authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        conference: <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        title: "商业地产智能分析"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
       - paper:
@@ -148,7 +148,7 @@ skills:
     title: Skill
     skills:
         - skill:
-          name: Java(Spring Boot,Spring MVC)
+          name: Java
           level: 95%
         - skill:
           name: C#
@@ -161,10 +161,10 @@ skills:
           level: 90%
         - skill:
           name: JavaScript
-          level: 90%
+          level: 95%
         - skill:
           name: HTML5 & CSS
-          level: 95%
+          level: 90%
         - skill:
           name: Oracle & MySQL & SQL Server & SQLite 
           level: 95%
