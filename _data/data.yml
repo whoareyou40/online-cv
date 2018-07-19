@@ -21,7 +21,7 @@ sidebar:
     #github: whoareyou40
     #twitter: '@webjeda'
 
-    语言:
+    language:
         - language:
           idiom: 中文
           level: 母语
@@ -34,7 +34,7 @@ sidebar:
         - language:
           idiom: 英语
           level: 熟练       
-    兴趣:
+    interest:
         - interest:
           item: Climbing
           link:
@@ -53,12 +53,9 @@ sidebar:
 career-profile: 
     title: 职业生涯简介
     text: '拥有超过 15 年的软件开发经验，特别专注于GIS在各个领域的应用。<br>
-    他在前台（浏览器端）和后台（服务器端）开发技术方面经验丰富，同时对数据库开发也非常熟悉。 从数据库开发到网络开发，均有能力为客户提供全面的技术解决方案。曾为香港特区政府部门，如环境保护署、路政署、渠务署和香港房屋委员会提供技术支持和咨询服务。拥有带领团队协调工作完成项目的成功经验。主要负责文档编写，系统分析，系统框架设计及核心功能的开发。
-    <br>
-    近年来较为关注GIS在数据可视化中的应用。
-    <br>
-    良好的软件开发流程和项目管理技能。包括需求分析，项目功能描述，软件设计与实现，测试部署与维护。<br>
-    <br>
+    在前端和后端开发技术方面经验丰富，同时对数据库开发也非常熟悉。<br> 
+    熟悉软件开发流程和项目管理，包括需求分析，项目功能描述，软件设计与实现，测试部署与维护。<br>
+    近年来较为关注GIS在数据可视化中的应用。<br>
     对新技术，新事物充满热情'
 
 
@@ -84,11 +81,11 @@ experiences:
         - role: GIS高级顾问/技术专家
           time: 2017 - 至今
           company: 大秉科技, 厦门
-          details: 为GIS在智慧农业，跨境电商提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
+          details: 为GIS在智慧农业，跨境电商提供解决方案。 系统设计，项目实施，关键技术支持，用户培训。
         - role: GIS高级顾问/GIS技术经理
           time: 2014 - 2017
           company: 创锐软件, 深圳
-          details: 为GIS在商业地产，智能停车，小区物管结合提供解决方案。 售前演示，需求分析，系统设计，项目实施，关键技术支持，用户培训.
+          details: 为GIS在商业地产，智能停车，小区物管结合提供解决方案。 售前演示，需求分析，系统设计，项目实施，关键技术支持，用户培训。
         - role: GIS软件高级工程师
           time: 2008 - 2013
           company: 艾奕康咨询(AECOM), 深圳
@@ -105,8 +102,6 @@ experiences:
 
 projects:
     title: 项目
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     projects:
       - project:
@@ -141,7 +136,6 @@ projects:
 
 publications:
     title: 个人作品
-    intro: "业余时间做的一些小东西"
     
     publications:
       - paper:
