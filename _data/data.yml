@@ -52,15 +52,22 @@ sidebar:
 
 career-profile: 
     title: 职业生涯简介
-    text: '拥有超过 12 年的软件开发经验以及超过10年GIS系统开发经验，尤其擅长基于 JavaEE 技术的开发。
-    他在前台（浏览器端）和后台（服务器端）开发技术方面经验丰富，同时对数据库开发也非常熟悉。 从数据库开发到网络开发，均有能力为客户提供全面的技术解决方案。曾为香港特区政府部门，如环境保护署、路政署、渠务署和香港房屋委员会提供技术支持和咨询服务。拥有带领团队协调工作完成项目的成功经验。主要负责文档编写，系统分析，系统框架设计及核心功能的开发。现在致力于研究移动端GIS在各行业的使用，以解决移动定位，移动办公等越来越迫切的需求。'
+    text: '拥有超过 15 年的软件开发经验，特别专注于GIS在各个领域的应用。<br>
+    他在前台（浏览器端）和后台（服务器端）开发技术方面经验丰富，同时对数据库开发也非常熟悉。 从数据库开发到网络开发，均有能力为客户提供全面的技术解决方案。曾为香港特区政府部门，如环境保护署、路政署、渠务署和香港房屋委员会提供技术支持和咨询服务。拥有带领团队协调工作完成项目的成功经验。主要负责文档编写，系统分析，系统框架设计及核心功能的开发。
+    <br>
+    近年来较为关注GIS在数据可视化中的应用。
+    <br>
+    良好的软件开发流程和项目管理技能。包括需求分析，项目功能描述，软件设计与实现，测试部署与维护。<br>
+    <br>
+    对新技术，新事物充满热情'
+
 
 
 studies: 
-    - 教育:
-      专业: 计算机应用
-      大学: 厦门理工学院
-      时间: 1997 - 2000
+    - education:
+      degree: 计算机应用
+      university: 厦门理工学院
+      time: 1997 - 2000
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -77,23 +84,23 @@ experiences:
         - role: GIS高级顾问/技术专家
           time: 2017 - 至今
           company: 大秉科技, 厦门
-          details: 为GIS在智慧农业应用提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
+          details: 为GIS在智慧农业，跨境电商提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
         - role: GIS高级顾问/GIS技术经理
           time: 2014 - 2017
-          company: 创锐软件科技, 深圳
-          details: 为GIS在商业地产，智能停车，小区物管结合提供解决方案。 系统设计，项目实施，关键技术支持，用户培训.
+          company: 创锐软件, 深圳
+          details: 为GIS在商业地产，智能停车，小区物管结合提供解决方案。 售前演示，需求分析，系统设计，项目实施，关键技术支持，用户培训.
         - role: GIS软件高级工程师
           time: 2008 - 2013
           company: 艾奕康咨询(AECOM), 深圳
-          details: 系统设计，软件编程，平台测试，配制管理，关键技术支持，项目文档编写。
+          details: GIS技术研究，系统设计，软件编程，平台测试，配制管理，关键技术支持，项目文档编写。
         - role: 高级软件工程师
           time: 2006 - 2008
           company: 凯立德, 深圳
-          details: 负责部门相关软件项目的程序编码，参与软件项目开发流程，实施项目部署，负责软件开发的进度控制，资源控制。
+          details: 软件项目开发，项目实施部署，负责软件开发的进度控制，资源控制。
         - role: 软件工程师
           time: 2001 - 2005
           company: 优联网络, 厦门
-          details: 公司江湖游戏网站的开发，维护，推广及售后服务，OA系统开发。
+          details: 公司游戏网站的开发，维护，推广及售后服务，OA系统开发。
 
 
 projects:
@@ -109,7 +116,7 @@ projects:
       - project:
         title: 跨境电商大数据分析平台
         link: "#hook"
-        tagline: "ECharts,D3.js,Amazon MWS,Spirng Boot,MySQL,AWS,Linux"
+        tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,AWS,Linux"
       - project:
         title: 商业地产分析GIS系统
         link: "#"
@@ -119,10 +126,13 @@ projects:
         link: "#"
         tagline: "Android,SQLite,Bmob"
       - project:
+        title: 深圳宝安区综合管理系统MapService模块
+        link: "#"
+        tagline: "Javascript,ArcGIS"
+      - project:
         title: 湖南电信长沙市号码百事通GIS查询平台
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        tagline: "Java,Mapinfo,Javascript,SQL Server"
 
 
 publications:
@@ -132,16 +142,20 @@ publications:
     publications:
       - paper:
         title: "世界杯投注指南"
-        authors: Donald E. Knuth
-        conference: <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        authors: Web APP
+        conference: <a href="http://www.ttggs.com/worldcup" target="_blank" rel="nofollow">Xiaoying Riley</a>
       - paper:
         title: "商业地产智能分析"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 网站
+        conference: <a href="http://www.ttggs.com/gis" target="_blank" rel="nofollow">Demo</a>
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: 21点算牌大师
+        authors: Android应用
+        conference: <a href="http://www.appchina.com/app/com.ttggs.BJTool/" target="_blank" rel="nofollow">应用汇</a>
+      - paper:
+        title: 史莱姆的故事(Slime Story)
+        authors: Android游戏
+        conference: <a href="http://sj.qq.com/myapp/detail.htm?apkName=com.ttggs.slimestory" target="_blank" rel="nofollow">应用宝</a>
 
 
 skills: 
@@ -162,15 +176,15 @@ skills:
         - skill:
           name: JavaScript
           level: 95%
+         - skill:
+          name: Python
+          level: 60%
         - skill:
           name: HTML5 & CSS
           level: 90%
         - skill:
-          name: Oracle & MySQL & SQL Server & SQLite 
+          name: 关系型数据库
           level: 95%
-        - skill:
-          name: Python
-          level: 60%
         - skill:
           name: GIS(Openlayers,GeoServer,Mapguide,PostGIS)
           level: 90%
@@ -178,7 +192,7 @@ skills:
           name: Linux
           level: 70%
         - skill:
-          name: 版本控制(GIT & SVN)
+          name: 版本控制
           level: 80%
 
 
