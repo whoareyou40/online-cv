@@ -126,6 +126,10 @@ projects:
         link: "#"
         tagline: "Android,SQLite,Bmob"
       - project:
+        title: 澳门树木管理系统
+        link: "#"
+        tagline: "Mapguide,JavaScript,Bmob"
+      - project:
         title: 深圳宝安区综合管理系统MapService模块
         link: "#"
         tagline: "Javascript,ArcGIS"
@@ -176,6 +180,9 @@ skills:
         - skill:
           name: JavaScript
           level: 95%
+       - skill:
+          name: React & VUE
+          level: 30%
          - skill:
           name: Python
           level: 60%
