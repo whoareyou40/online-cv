@@ -21,7 +21,7 @@ sidebar:
     #github: whoareyou40
     #twitter: '@webjeda'
 
-    language:
+    languages:
         - language:
           idiom: 中文
           level: 母语
@@ -34,7 +34,7 @@ sidebar:
         - language:
           idiom: 英语
           level: 熟练       
-    interest:
+    interests:
         - interest:
           item: Climbing
           link:
@@ -105,12 +105,12 @@ projects:
     
     projects:
       - project:
-        title: 智慧农业
+        title: 智慧农业ERP系统
         link: "#"
-        tagline: "Javascript,Openlayers,GeoServer,CesiumJS,PostGIS,Linux"
+        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,CesiumJS,PostGIS,Linux"
       - project:
         title: 跨境电商大数据分析平台
-        link: "#hook"
+        link: "#"
         tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,AWS,Linux"
       - project:
         title: 商业地产分析GIS系统
@@ -123,7 +123,7 @@ projects:
       - project:
         title: 澳门树木管理系统
         link: "#"
-        tagline: "Mapguide,JavaScript,Bmob"
+        tagline: "Mapguide,JavaScript,C#"
       - project:
         title: 深圳宝安区综合管理系统MapService模块
         link: "#"
@@ -141,19 +141,19 @@ publications:
       - paper:
         title: "世界杯投注指南"
         authors: Web APP
-        conference: <a href="http://www.ttggs.com/worldcup" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        conference: <a href="http://www.ttggs.com/worldcup" target="_blank" rel="nofollow">一个使用大数据对足球比赛进行预测的网站</a>
       - paper:
         title: "商业地产智能分析"
         authors: 网站
-        conference: <a href="http://www.ttggs.com/gis" target="_blank" rel="nofollow">Demo</a>
+        conference: <a href="http://www.ttggs.com/gis" target="_blank" rel="nofollow">一个商业地产分析网站Demo</a>
       - paper:
         title: 21点算牌大师
-        authors: Android应用
-        conference: <a href="http://www.appchina.com/app/com.ttggs.BJTool/" target="_blank" rel="nofollow">应用汇</a>
+        authors: Android APP
+        conference: <a href="http://www.appchina.com/app/com.ttggs.BJTool/" target="_blank" rel="nofollow">一个21点算牌APP</a>
       - paper:
         title: 史莱姆的故事(Slime Story)
-        authors: Android游戏
-        conference: <a href="http://sj.qq.com/myapp/detail.htm?apkName=com.ttggs.slimestory" target="_blank" rel="nofollow">应用宝</a>
+        authors: Android Game
+        conference: <a href="http://sj.qq.com/myapp/detail.htm?apkName=com.ttggs.slimestory" target="_blank" rel="nofollow">一个平台益智游戏</a>
         
 skills: 
     title: Skill
