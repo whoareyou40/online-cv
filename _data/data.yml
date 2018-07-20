@@ -36,13 +36,13 @@ sidebar:
           level: 熟练       
     interests:
         - interest:
-          item: Reading
+          item: 阅读
           link:
         - interest:
-          item: Swimming
+          item: 电影
           link:
         - interest:
-          item: Soccer
+          item: 足球
           link: 
 
         
