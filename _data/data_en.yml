@@ -86,18 +86,18 @@ experiences:
           time: 2014 - 2017
           company: 创锐软件, 深圳
           details: 为GIS在商业地产，智能停车，小区物管，跨境电商提供解决方案。 售前演示，需求分析，系统设计，项目实施，关键技术支持，用户培训。
-        - role: GIS软件高级工程师
+        - role: GIS Senior Software Engineer
           time: 2008 - 2013
-          company: 艾奕康咨询(AECOM), 深圳
+          company: AECOM Design Centre(Shenzhen)
           details: GIS技术研究，系统设计，软件编程，平台测试，配制管理，关键技术支持，项目文档编写。
-        - role: 高级软件工程师
+        - role: GIS Software Engineer
           time: 2006 - 2008
-          company: 凯立德, 深圳
-          details: 软件项目开发，项目实施部署，负责软件开发的进度控制，资源控制。
+          company: Shenzhen Careland Computer Systems Technology Ltd
+          details: Software e project development, project implementation deployment, responsible for software development progress control, resource control.
         - role: Software Engineer
           time: 2001 - 2005
           company: Xiamen Union Network Ltd
-          details: 公司游戏网站的开发，维护，推广及售后服务，OA系统开发。
+          details: Website development, maintenance, after-sales service, OA system development.
 
 
 projects:
@@ -105,19 +105,23 @@ projects:
     
     projects:
       - project:
-        title: 智慧农业ERP系统
+        title: Intelligent Agriculture with ERP system
         link: "#"
         tagline: "Javascript,Openlayers,Bootstrap,GeoServer,CesiumJS,PostGIS,Linux"
       - project:
-        title: 跨境电商大数据分析平台
+        title: Intelligent Agriculture with ERP system
+        link: "#"
+        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,CesiumJS,PostGIS,Linux"
+      - project:
+        title: Big Data Analysis for Cross-Border Electronic Commerce
         link: "#"
         tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,AWS,Linux"
       - project:
-        title: 商业地产分析GIS系统
+        title: Commercial real estate analysis system
         link: "#"
         tagline: "AIMS(Mapguide),JQuery,C#,Oracle,Windows Server"
       - project:
-        title: 智能停车App系统Android版
+        title: Smart Parking Management
         link: "#"
         tagline: "Android,SQLite,Bmob"
       - project:
@@ -138,10 +142,6 @@ publications:
     title: PUBLICATIONS
     
     publications:
-      - paper:
-        title: "世界杯投注指南"
-        authors: Web APP
-        conference: <a href="http://www.ttggs.com/worldcup" target="_blank" rel="nofollow">一个使用大数据对足球比赛进行预测的网站</a>
       - paper:
         title: "Intelligent analysis of commercial real estate"
         authors: Website
