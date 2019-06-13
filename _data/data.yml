@@ -38,8 +38,8 @@ sidebar:
         - interest:
           item: Reading
           link:
-        - interest: Traveling
-          item: 
+        - interest: 
+          item: Traveling
           link:
         - interest:
           item: Swimming
@@ -189,7 +189,7 @@ skills:
           level: 90%
         - skill:
           name: Commercial GIS(ArcGIS,Super Map)
-          level: 80%
+          level: 85%
         - skill:
           name: Linux
           level: 70%
