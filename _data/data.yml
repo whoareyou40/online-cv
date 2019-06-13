@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: MY CV
+    title: Dolm's CV
     url: 'http://cv.ttggs.com'
    # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: dolm5415@gmail.com
-    phone: 13510987586
+    phone: 8613510987586
     website: www.ttggs.com #do not add http://
     #linkedin: alandoe
     #github: whoareyou40
@@ -38,7 +38,7 @@ sidebar:
         - interest:
           item: Reading
           link:
-        - interest:
+        - interest: Traveling
           item: 
           link:
         - interest:
@@ -52,8 +52,8 @@ sidebar:
 
 career-profile: 
     title: CAREER PROFILE
-    text: 'Dolm Chen a Senior GIS Expert with over 17 years of IT experiences.
-    He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.。<br>
+    text: 'Dolm Chen is a Senior GIS Expert with over 17 years of IT experiences.<br>
+    He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.<br>
     He is experienced in IT system applications, especially the web-based and GIS systems development, in which he acquired intensive experiences in  ArcGIS Server, GeoServer, Weblogic, Mapguide Server, Oracle, SQL server, Apache Tomcat as well as development tools such as JavaScript, J2EE, .NET, Python .etc.<br>
     He is passionate with new technique'
 
@@ -79,16 +79,16 @@ experiences:
     experiences:
         - role: GIS Expert
           time: 2017 - To Date
-          company: ShezZhen Wayto Technological Development Ltd
-          details: Develop a GIS for support the SAAS It is the solution of GIS application in intelligent agriculture.System design, project implementation, key technical support, user training.
-        - role: GIS Senior Consultant/GIS Manager
+          company: ShenZhen Wayto Technological Development Ltd
+          details: Develop a GIS platform to support the SAAS for Operation and Maintenance. System design, project implementation, key technical support, user training, BIM+GIS research.
+        - role: GIS Consultant/GIS Manager
           time: 2014 - 2017
-          company: Shenzhen Axline Software Technology Ltd
-          details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management and cross-border e-commerce.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training。
+          company: Axline (Shenzhen) Software Technology Ltd
+          details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
         - role: GIS Senior Software Engineer
           time: 2008 - 2013
           company: AECOM Design Centre(Shenzhen)
-          details: GIS technology research, system design, software programming, key technical support, Project documentations
+          details: GIS technology research, system design, software programming, key technical support, project documentations.
         - role: GIS Software Engineer
           time: 2006 - 2008
           company: Shenzhen Careland Computer Systems Technology Ltd
@@ -104,17 +104,17 @@ projects:
     
     projects:
       - project:
-        title: Intelligent Agriculture with ERP system
+        title: SAAS for Operation and Maintenance
         link: "#"
-        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,CesiumJS,PostGIS,Linux"
+        tagline: "Vue,Openlayers,Python,Bootstrap,GeoServer,Cesium.JS,Three.JS,PostGIS,Linux"
       - project:
-        title: Intelligent Agriculture with ERP system
+        title: Intelligent Agriculture System
         link: "#"
-        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,CesiumJS,PostGIS,Linux"
+        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,Cesium.JS,PostGIS,Linux"
       - project:
         title: Big Data Analysis for Cross-Border Electronic Commerce
         link: "#"
-        tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,Linux"
+        tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,AWS"
       - project:
         title: Commercial real estate analysis system
         link: "#"
@@ -161,23 +161,23 @@ skills:
           name: Java
           level: 95%
         - skill:
-          name: C#
-          level: 80%
-        - skill:
           name: JavaScript
           level: 95%
         - skill:
-          name: Android
-          level: 90%
-        - skill:
-          name: Node.JS
+          name: C#
           level: 80%
+        - skill:
+          name: Python
+          level: 70%
         - skill:
           name: VB.Net
           level: 70%
         - skill:
-          name: Python
-          level: 70%
+          name: Node.JS
+          level: 80%
+        - skill:
+          name: Android
+          level: 90%
         - skill:
           name: HTML5 & CSS
           level: 90%
@@ -185,10 +185,10 @@ skills:
           name: Database/SQL
           level: 95%
         - skill:
-          name: Open Source GIS
+          name: Open Source GIS(GeoServer,QGIS,POSTGIS,Openlayers,Mapguide)
           level: 90%
         - skill:
-          name: Commercial GIS
+          name: Commercial GIS(ArcGIS,Super Map)
           level: 80%
         - skill:
           name: Linux
