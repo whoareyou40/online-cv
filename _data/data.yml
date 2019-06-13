@@ -4,13 +4,13 @@
 
 sidebar:
     # Site Settings
-    title: 我的简历
+    title: MY CV
     url: 'http://cv.ttggs.com'
    # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: 陈少毅(Dolm Chen)
-    tagline: 资深顾问/技术专家
+    name: Dolm Chen
+    tagline: GIS Expert / Consultant
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -23,26 +23,26 @@ sidebar:
 
     languages:
         - language:
-          idiom: 中文
-          level: 母语
+          idiom: Chinese
+          level: Native
         - language:
-          idiom: 闽南语
-          level: 母语
+          idiom: Hokkien
+          level: Native
         - language:
-          idiom: 粤语
-          level: 熟练
+          idiom: Cantonese
+          level: Professional
         - language:
-          idiom: 英语
-          level: 熟练       
+          idiom: English
+          level: Professional       
     interests:
         - interest:
-          item: 阅读
+          item: Reading
           link:
         - interest:
-          item: 电影
+          item: 
           link:
         - interest:
-          item: 足球
+          item: Swimming
           link: 
 
         
@@ -51,19 +51,18 @@ sidebar:
 
 
 career-profile: 
-    title: 职业生涯简介
-    text: '拥有超过 15 年的软件开发经验，特别专注于GIS在各个领域的应用。<br>
-    在前端和后端开发技术方面经验丰富，同时对数据库开发也非常熟悉。<br> 
-    熟悉软件开发流程和项目管理，包括需求分析，项目功能描述，软件设计与实现，测试部署与维护。<br>
-    近年来致力于GIS在数据可视化中的应用。<br>
-    对新技术，新事物充满热情。'
+    title: CAREER PROFILE
+    text: 'Dolm Chen a Senior GIS Expert with over 17 years of IT experiences.
+    He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.。<br>
+    He is experienced in IT system applications, especially the web-based and GIS systems development, in which he acquired intensive experiences in  ArcGIS Server, GeoServer, Weblogic, Mapguide Server, Oracle, SQL server, Apache Tomcat as well as development tools such as JavaScript, J2EE, .NET, Python .etc.<br>
+    He is passionate with new technique'
 
 
 
 studies: 
     - education:
-      degree: 计算机应用
-      university: 厦门理工学院
+      degree: Computer Application Technology
+      university: Xiamen University of Technology
       time: 1997 - 2000
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
@@ -74,86 +73,86 @@ studies:
 
 
 experiences:
-    title: 工作经验
+    title: Experiences
     
     
     experiences:
-        - role: GIS高级顾问/技术专家
-          time: 2017 - 至今
-          company: 大秉科技, 厦门
-          details: 为GIS在智慧农业应用解决方案。系统设计，项目实施，关键技术支持，用户培训。
-        - role: GIS高级顾问/GIS技术经理
+        - role: GIS Expert
+          time: 2017 - To Date
+          company: ShezZhen Wayto Technological Development Ltd
+          details: Develop a GIS for support the SAAS It is the solution of GIS application in intelligent agriculture.System design, project implementation, key technical support, user training.
+        - role: GIS Senior Consultant/GIS Manager
           time: 2014 - 2017
-          company: 创锐软件, 深圳
-          details: 为GIS在商业地产，智能停车，小区物管，跨境电商提供解决方案。 售前演示，需求分析，系统设计，项目实施，关键技术支持，用户培训。
-        - role: GIS软件高级工程师
+          company: Shenzhen Axline Software Technology Ltd
+          details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management and cross-border e-commerce.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training。
+        - role: GIS Senior Software Engineer
           time: 2008 - 2013
-          company: 艾奕康咨询(AECOM), 深圳
-          details: GIS技术研究，系统设计，软件编程，平台测试，配制管理，关键技术支持，项目文档编写。
-        - role: 高级软件工程师
+          company: AECOM Design Centre(Shenzhen)
+          details: GIS technology research, system design, software programming, key technical support, Project documentations
+        - role: GIS Software Engineer
           time: 2006 - 2008
-          company: 凯立德, 深圳
-          details: 软件项目开发，项目实施部署，负责软件开发的进度控制，资源控制。
-        - role: 软件工程师
+          company: Shenzhen Careland Computer Systems Technology Ltd
+          details: Software e project development, project implementation deployment, responsible for software development progress control, resource control.
+        - role: Software Engineer
           time: 2001 - 2005
-          company: 优联网络, 厦门
-          details: 公司游戏网站的开发，维护，推广及售后服务，OA系统开发。
+          company: Xiamen Union Network Ltd
+          details: Website development, maintenance, after-sales service, OA system development.
 
 
 projects:
-    title: 项目
+    title: PROJECTS
     
     projects:
       - project:
-        title: 智慧农业ERP系统
+        title: Intelligent Agriculture with ERP system
         link: "#"
         tagline: "Javascript,Openlayers,Bootstrap,GeoServer,CesiumJS,PostGIS,Linux"
       - project:
-        title: 跨境电商大数据分析平台
+        title: Intelligent Agriculture with ERP system
         link: "#"
-        tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,AWS,Linux"
+        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,CesiumJS,PostGIS,Linux"
       - project:
-        title: 商业地产分析GIS系统
+        title: Big Data Analysis for Cross-Border Electronic Commerce
+        link: "#"
+        tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,Linux"
+      - project:
+        title: Commercial real estate analysis system
         link: "#"
         tagline: "AIMS(Mapguide),JQuery,C#,Oracle,Windows Server"
       - project:
-        title: 智能停车App系统Android版
+        title: Smart Parking Management
         link: "#"
         tagline: "Android,SQLite,Bmob"
       - project:
-        title: 澳门树木管理系统
+        title: Macao tree management system
         link: "#"
         tagline: "Mapguide,JavaScript,C#"
       - project:
-        title: 深圳宝安区综合管理系统MapService模块
+        title: Shen Zhen Bao an District Integrated Management System Map Service Module
         link: "#"
-        tagline: "Javascript,ArcGIS"
+        tagline: "Javascript,ArcGIS Desktop,ArcIMS"
       - project:
-        title: 湖南电信长沙市号码百事通GIS查询平台
+        title: Telecom Changsha City in Hunan 114 Query System
         link: "#"
         tagline: "Java,Mapinfo,Javascript,SQL Server"
 
 
 publications:
-    title: 个人作品
+    title: PUBLICATIONS
     
     publications:
       - paper:
-        title: "世界杯投注指南"
-        authors: Web APP
-        conference: <a href="http://www.ttggs.com/worldcup" target="_blank" rel="nofollow">一个使用大数据对足球比赛进行预测的网站</a>
+        title: "Intelligent analysis of commercial real estate"
+        authors: Website
+        conference: <a href="http://www.ttggs.com/gis" target="_blank" rel="nofollow">A demo for commercial real estate</a>
       - paper:
-        title: "商业地产智能分析"
-        authors: 网站
-        conference: <a href="http://www.ttggs.com/gis" target="_blank" rel="nofollow">一个商业地产分析网站Demo</a>
-      - paper:
-        title: 21点算牌大师
+        title: Blackjack Card Counting Master
         authors: Android APP
-        conference: <a href="http://www.appchina.com/app/com.ttggs.BJTool/" target="_blank" rel="nofollow">一个21点算牌APP</a>
+        conference: <a href="http://www.ttggs.com/Download/BlackJackCountingMaster.apk" target="_blank" rel="nofollow">A APP for Blackjack Card Counting</a>
       - paper:
-        title: 史莱姆的故事(Slime Story)
+        title: Slime Story
         authors: Android Game
-        conference: <a href="http://sj.qq.com/myapp/detail.htm?apkName=com.ttggs.slimestory" target="_blank" rel="nofollow">一个平台益智游戏</a>
+        conference: <a href="http://www.ttggs.com/Download/com.ttggs.slimestory_1.0.5.apk" target="_blank" rel="nofollow">A platform puzzle game</a>
         
 skills: 
     title: Skill
@@ -178,27 +177,24 @@ skills:
           level: 70%
         - skill:
           name: Python
-          level: 60%
-        - skill:
-          name: React & VUE
-          level: 30%
+          level: 70%
         - skill:
           name: HTML5 & CSS
           level: 90%
         - skill:
-          name: 关系型数据库
+          name: Database/SQL
           level: 95%
         - skill:
-          name: 开源GIS
+          name: Open Source GIS
           level: 90%
         - skill:
-          name: 商业GIS
+          name: Commercial GIS
           level: 80%
         - skill:
           name: Linux
           level: 70%
         - skill:
-          name: 版本控制
+          name: Version Control
           level: 80%
 
 
