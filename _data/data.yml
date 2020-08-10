@@ -15,7 +15,8 @@ sidebar:
     
     # Sidebar links
     email: dolm5415@gmail.com
-    phone: 8613510987586
+    phone: (86)13510987586
+    wechat: dolm5415
     #website: www.ttggs.com #do not add http://
     #linkedin: alandoe
     #github: whoareyou40
@@ -55,7 +56,8 @@ career-profile:
     text: 'Dolm Chen is a Senior GIS Expert with over 17 years of IT experiences.<br>
     He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.<br>
     He is experienced in IT system applications, especially the web-based and GIS systems development, in which he acquired intensive experiences in  ArcGIS Server, GeoServer, Weblogic, Mapguide Server, Oracle, SQL server, Apache Tomcat as well as development tools such as JavaScript, J2EE, .NET, Python .etc.<br>
-    He is passion for new technology and new thinks'
+    He is passion for new technology and new things. 
+    Recently, he is researching about the quantitative trading of digital currency.'
 
 
 
@@ -142,9 +144,9 @@ publications:
     
     publications:
       - paper:
-        title: "Intelligent analysis of commercial real estate"
+        title: "Surebet.com"
         authors: Website
-        conference: <a href="http://www.ttggs.com/gis" target="_blank" rel="nofollow">A demo for commercial real estate</a>
+        conference: <a href="http://zh.surebet.com" target="_blank" rel="nofollow">A WebSite for Sports Arbitrage(Chinese Version)</a>
       - paper:
         title: Blackjack Card Counting Master
         authors: Android APP
@@ -177,7 +179,7 @@ skills:
           level: 80%
         - skill:
           name: Android
-          level: 90%
+          level: 80%
         - skill:
           name: HTML5 & CSS
           level: 90%
@@ -185,7 +187,7 @@ skills:
           name: Database/SQL
           level: 95%
         - skill:
-          name: Open Source GIS(GeoServer,QGIS,POSTGIS,Openlayers,Mapguide)
+          name: Open Source GIS(GeoServer, QGIS, POSTGIS, Openlayers, Mapguide)
           level: 90%
         - skill:
           name: Commercial GIS(ArcGIS,Super Map)
@@ -196,6 +198,10 @@ skills:
         - skill:
           name: Version Control
           level: 80%
+        - skill: Crypto & Blockchain(CCXT, Catalyst, AioQuant, VNPY)
+          name: Version Control
+          level: 60%
+        
 
 
 footer: 
