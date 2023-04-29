@@ -7,50 +7,49 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dolm Chen
+    tagline: Community Manager / Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: dolm@ttggs.com
+    phone: 12345678
+    timezone: UTC +8
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: www.ttggs.com #do not add http://
     linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    telegram: # dolm5415
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
+        - idiom: Hokkien
+          level: Native
+       
+        - idiom: Cantonese
           level: Professional
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Traveling
           link:
 
-        - item: Cooking
+        - item: Swimming
           link:
 
 career-profile:
@@ -65,20 +64,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: Computer Application Technology
+        university: Xiamen University of Technology
         time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -202,8 +190,8 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript 
+        level: 80%
 
       - name: Angular
         level: 98%
@@ -214,7 +202,13 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Database/SQL
+        level: 90%
+        
+      - name: Linux
+        level: 70%
+        
+      - name: Crypto Trading (CCXT, Catalyst, AioQuant, Hummingbot)
         level: 60%
 
 footer: >
