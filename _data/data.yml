@@ -3,219 +3,200 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    # Site Settings
+    title: Dolm's CV
+    url: 'https://whoareyou40.github.io'
+   # about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Dolm Chen
+    tagline: Community Manager / Consultant
+    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: dolm5415@gmail.com
+    phone: (86)13510987586
+    wechat: dolm5415
+    #website: www.ttggs.com #do not add http://
+    #linkedin: alandoe
+    #github: whoareyou40
+    #twitter: '@webjeda'
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
+        - language:
+          idiom: Chinese
           level: Native
-
-        - idiom: French
+        - language:
+          idiom: Hokkien
+          level: Native
+        - language:
+          idiom: Cantonese
           level: Professional
-
-        - idiom: Spanish
+        - language:
+          idiom: English
           level: Professional
-
     interests:
-      title: Interests
-      info:
-        - item: Climbing
+        - interest:
+          item: Reading
+          link:
+        - interest:
+          item: Traveling
+          link:
+        - interest:
+          item: Swimming
           link:
 
-        - item: Snowboarding
-          link:
 
-        - item: Cooking
-          link:
+
+
+
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    title: CAREER PROFILE
+    text: 'Dolm Chen is a Senior GIS Expert with over 17 years of IT experiences.<br>
+    He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.<br>
+    He is experienced in IT system applications, especially the web-based and GIS systems development, in which he acquired intensive experiences in  ArcGIS Server, GeoServer, Weblogic, Mapguide Server, Oracle, SQL server, Apache Tomcat as well as development tools such as JavaScript, J2EE, .NET, Python .etc.<br>
+    He is passion for new technology and new things. 
+    Recently, he is researching about the quantitative trading of digital currency.'
+
+
+
+studies:
+    - education:
+      degree: Computer Application Technology
+      university: Xiamen University of Technology
+      time: 1997 - 2001
+      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem."
+
+
+
+
 experiences:
     title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+
+    experiences:
+        - role: Solution Consultant/Community Manager
+          time: 2021 - To Date
+          company: Hummingbot.io
+          details: Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
+        - role: GIS Expert
+          time: 2017 - 2021
+          company: ShenZhen Wayto Technological Development Ltd
+          details: Develop a GIS platform to support the SAAS for Operation and Maintenance. System design, project implementation, key technical support, user training, BIM+GIS research.
+        - role: GIS Consultant/GIS Manager
+          time: 2014 - 2017
+          company: Axline (Shenzhen) Software Technology Ltd
+          details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
+        - role: GIS Senior Software Engineer
+          time: 2008 - 2013
+          company: AECOM Design Centre(Shenzhen)
+          details: GIS technology research, system design, software programming, key technical support, project documentations.
+        - role: GIS Software Engineer
+          time: 2006 - 2008
+          company: Shenzhen Careland Computer Systems Technology Ltd
+          details: Software e project development, project implementation deployment, responsible for software development progress control, resource control.
+        - role: Software Engineer
+          time: 2001 - 2005
+          company: Xiamen Union Network Ltd
+          details: Website development, maintenance, after-sales service, OA system development.
+
+
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: PROJECTS
 
-      - title: DevStudio
+    projects:
+      - project:
+        title: SAAS for Operation and Maintenance
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Vue,Openlayers,Python,Bootstrap,GeoServer,Cesium.JS,Three.JS,PostGIS,Linux"
+      - project:
+        title: Intelligent Agriculture System
+        link: "#"
+        tagline: "Javascript,Openlayers,Bootstrap,GeoServer,Cesium.JS,PostGIS,Linux"
+      - project:
+        title: Big Data Analysis for Cross-Border Electronic Commerce
+        link: "#"
+        tagline: "ECharts,D3.js,Amazon MWS,Spirng MVC,MySQL,AWS"
+      - project:
+        title: Commercial real estate analysis system
+        link: "#"
+        tagline: "AIMS(Mapguide),JQuery,C#,Oracle,Windows Server"
+      - project:
+        title: Smart Parking Management
+        link: "#"
+        tagline: "Android,SQLite,Bmob"
+      - project:
+        title: Macao tree management system
+        link: "#"
+        tagline: "Mapguide,JavaScript,C#"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    title: PUBLICATIONS
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    publications:
+      - paper:
+        title: "Surebet.com"
+        authors: Website
+        conference: <a href="http://zh.surebet.com" target="_blank" rel="nofollow">A WebSite for Sports Arbitrage</a>
+      - paper:
+        title: Blackjack Card Counting Master
+        authors: Android APP
+        conference: <a href="http://www.ttggs.com/Download/BlackJackCountingMaster.apk" target="_blank" rel="nofollow">A APP for Blackjack Card Counting</a>
+      - paper:
+        title: Slime Story
+        authors: Android Game
+        conference: <a href="http://www.ttggs.com/Download/com.ttggs.slimestory_1.0.5.apk" target="_blank" rel="nofollow">A platform puzzle game</a>
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skill
+    skills:
+        - skill:
+          name: Java
+          level: 85%
+        - skill:
+          name: JavaScript
+          level: 85%
+        - skill:
+          name: C#
+          level: 80%
+        - skill:
+          name: Python
+          level: 75%
+        - skill:
+          name: VB.Net
+          level: 70%
+        - skill:
+          name: Node.JS
+          level: 80%
+        - skill:
+          name: Android
+          level: 70%
+        - skill:
+          name: HTML5 & CSS
+          level: 90%
+        - skill:
+          name: Database/SQL
+          level: 90%
+        - skill:
+          name: GIS(GeoServer, QGIS, POSTGIS, Openlayers, Mapguide, ArcGIS, SuperMap)
+          level: 90%
+        - skill:
+          name: Linux
+          level: 70%
+        - skill:
+          name: Version Control
+          level: 80%
+        - skill:
+          name: Crypto & Blockchain(CCXT, Catalyst, AioQuant, VNPY, Hummingbot)
+          level: 60%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer:
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
