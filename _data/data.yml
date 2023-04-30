@@ -20,7 +20,6 @@ sidebar:
     linkedin: alandoe
     telegram: # dolm5415
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -78,9 +77,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Solution Consultant/Community Manager
+        time: 2021 - Present
+        company: Hummingbot.io
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -171,17 +170,17 @@ publications:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        conference: <a href="http://www.ttggs.com/Download/BlackJackCountingMaster.apk" target="_blank" rel="nofollow">A APP for Blackjack Card Counting</a>
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Blackjack Card Counting Master"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Slime Story
+        link: "http://www.ttggs.com/Download/BlackJackCountingMaster.apk"
+        authors: 
+        conference: ""
 
 skills:
     title: Skills &amp; Proficiency
@@ -193,14 +192,11 @@ skills:
       - name: Javascript 
         level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: C#
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
+        level: 90%
 
       - name: Database/SQL
         level: 90%
@@ -209,7 +205,7 @@ skills:
         level: 70%
         
       - name: Crypto Trading (CCXT, Catalyst, AioQuant, Hummingbot)
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
