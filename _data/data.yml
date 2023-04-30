@@ -20,9 +20,8 @@ sidebar:
     linkedin: alandoe
     telegram: # dolm5415
     bitbucket:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    zhihu: https://www.zhihu.com/people/dao-mu-70-83
 
     languages:
       title: Languages
@@ -62,6 +61,11 @@ education:
         university: Xiamen University of Technology
         time: 2011 - 2012
         details: |
+"Dolm Chen is a Senior GIS Expert with over 17 years of IT experiences.<br>
+    He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.<br>
+    He is experienced in IT system applications, especially the web-based and GIS systems development, in which he acquired intensive experiences in  ArcGIS Server, GeoServer, Weblogic, Mapguide Server, Oracle, SQL server, Apache Tomcat as well as development tools such as JavaScript, J2EE, .NET, Python .etc.<br>
+    He is passion for new technology and new things. 
+    Recently, he is researching about the quantitative trading of digital currency."
 
 experiences:
     title: Experiences
