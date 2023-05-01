@@ -80,25 +80,26 @@ experiences:
         details: |
             - Provide liquidity solutions for the token issuers/exchange
             - Bullet point
-       - role: GIS Expert
-         time: 2017 - 2021
-         company: ShenZhen Wayto Technological Development Ltd
-         details: |
-           Develop a GIS platform to support the SAAS for Operation and Maintenance. System design, project implementation, key technical support, user training, BIM+GIS research.
-       - role: GIS Consultant/GIS Manager
-         time: 2014 - 2017
-         company: Axline (Shenzhen) Software Technology Ltd
-         details: |
-           Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
-       - role: GIS Senior Software Engineer
-         time: 2008 - 2013
-         company: AECOM Design Centre(Shenzhen)
-         details: |
-           GIS technology research, system design, software programming, key technical support, project documentations.
-       - role: GIS Software Engineer
-         time: 2006 - 2008
-         company: Shenzhen Careland Computer Systems Technology Ltd
-         details: Software e project development, project implementation deployment, responsible for software development progress control, resource control.
+      - role: GIS Expert
+        time: 2017 - 2021
+        company: ShenZhen Wayto Technological Development Ltd
+        details: |
+          Develop a GIS platform to support the SAAS for Operation and Maintenance. System design, project implementation, key technical support, user training, BIM+GIS research.
+      - role: GIS Consultant/GIS Manager
+        time: 2014 - 2017
+        company: Axline (Shenzhen) Software Technology Ltd
+        details: |
+          Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
+      - role: GIS Senior Software Engineer
+        time: 2008 - 2013
+        company: AECOM Design Centre(Shenzhen)
+        details: |
+          GIS technology research, system design, software programming, key technical support, project documentations.
+      - role: GIS Software Engineer
+        time: 2006 - 2008
+        company: Shenzhen Careland Computer Systems Technology Ltd
+        details: | 
+          Software e project development, project implementation deployment, responsible for software development progress control, resource control.
        - role: Software Engineer
          time: 2001 - 2005
          company: Xiamen Union Network Ltd
@@ -115,7 +116,7 @@ projects:
       - title: SAAS for Operation and Maintenance
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+        
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
@@ -124,11 +125,11 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Smart Parking Management
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Macao tree management system
+      - title: Macau tree management system
         link: "#"
         tagline: "Helping Macao grow healthier and greener, one tree at a time."
 
