@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dolm Chen
-    tagline: Community Manager / Consultant
+    tagline: Community Manager / Solution Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,24 +52,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        "Dolm Chen is a Senior GIS Expert with over 17 years of IT experiences.<br>
-        He has extensive experience in the full system cycle development from gathering user requirement, conducting the current environment description, performing the feasibility study, conducting the system analysis and design, data analysis and modeling, preparing the functional and system specifications, performing the system sizing, to system implementation, testing, programming, and training.<br>
-        He is experienced in IT system applications, especially the web-based and GIS systems development, in which he acquired intensive experiences in  ArcGIS Server, GeoServer, Weblogic, Mapguide Server, Oracle, SQL server, Apache Tomcat as well as development tools such as JavaScript, J2EE, .NET, Python .etc.<br>
-        He is passion for new technology and new things. 
-        Recently, he is researching about the quantitative trading of digital currency."
+        "As someone with expertise in community growth and community management, I have honed my trading skills and developed strong writing abilities to achieve optimal results. 
+        In addition, my extensive network within the Chinese community enables me to establish and maintain strong relationships with key stakeholders. 
+        Whether it's building engagement or maximizing ROI, I have the knowledge and experience to ensure successful community growth and management. 
+        With these abilities, I am well-equipped to help organizations achieve their goals and build lasting connections with their audiences."
 education:
     title: Education
     info:
       - degree: Computer Application Technology
         university: Xiamen University of Technology
-        time: 2011 - 2012
+        time: ???? - ????
         details: |
 
 
 experiences:
     title: Experiences
     info:
-      - role: Solution Consultant/Community Manager
+      - role: Community Manager
         time: 2021 - Present
         company: Hummingbot Foundation
         details: |
@@ -78,11 +77,12 @@ experiences:
             - Hummingbot strategy development and debugging
             - Write content for Hummingbot
       - role: Solution Consultant
-        time: 2014 - 2015
+        time: 2022 - Present
         company: CoinAlpha
         details: |
             - Provide liquidity solutions for the token issuers/exchange
-            - Bullet point
+            - Performance analysis and risk management
+            - Design and improve fluid mining products
 
 
 projects:
@@ -92,17 +92,14 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+    
       - title: SAAS for Operation and Maintenance
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-        
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Commercial real estate analysis system
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Unlocking the Potential of Property Investment Through Powerful Analysis Tools"
 
       - title: Smart Parking Management
         link: "#"
@@ -139,8 +136,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 90%
 
       - name: Javascript 
         level: 80%
