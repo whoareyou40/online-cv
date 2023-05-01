@@ -149,9 +149,9 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
-        link: "#"
+        link: "A APP for Blackjack Card Counting"
         authors: Donald E. Knuth
-        conference: <a href="http://www.ttggs.com/Download/BlackJackCountingMaster.apk" target="_blank" rel="nofollow">A APP for Blackjack Card Counting</a>
+        conference: ""
 
       - title: "Blackjack Card Counting Master"
         link: "#"
