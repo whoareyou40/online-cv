@@ -94,7 +94,7 @@ projects:
     assignments:
     
       - title: SAAS for Operation and Maintenance
-        link: "#hook"
+        link: ""
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: Commercial real estate analysis system
@@ -117,20 +117,16 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "A APP for Blackjack Card Counting"
-        authors: Donald E. Knuth
-        conference: ""
 
       - title: "Blackjack Card Counting Master"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: ""
+        authors: 
+        conference: "A APP for Blackjack Card Counting"
 
       - title: Slime Story
         link: "http://www.ttggs.com/Download/BlackJackCountingMaster.apk"
         authors: 
-        conference: ""
+        conference: "A platform puzzle game"
 
 skills:
     title: Skills &amp; Proficiency
