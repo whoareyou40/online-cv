@@ -73,7 +73,7 @@ experiences:
           Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
+      - role: Solution Consultant
         time: 2014 - 2015
         company: Google, London
         details: |
@@ -84,17 +84,27 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+       - role: GIS Expert
+         time: 2017 - 2021
+         company: ShenZhen Wayto Technological Development Ltd
+         details: Develop a GIS platform to support the SAAS for Operation and Maintenance. System design, project implementation, key technical support, user training, BIM+GIS research.
+       - role: GIS Consultant/GIS Manager
+         time: 2014 - 2017
+         company: Axline (Shenzhen) Software Technology Ltd
+         details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
+       - role: GIS Senior Software Engineer
+         time: 2008 - 2013
+         company: AECOM Design Centre(Shenzhen)
+         details: GIS technology research, system design, software programming, key technical support, project documentations.
+       - role: GIS Software Engineer
+         time: 2006 - 2008
+         company: Shenzhen Careland Computer Systems Technology Ltd
+         details: Software e project development, project implementation deployment, responsible for software development progress control, resource control.
+       - role: Software Engineer
+         time: 2001 - 2005
+         company: Xiamen Union Network Ltd
+         details: Website development, maintenance, after-sales service, OA system development.
+
 projects:
     title: Projects
     intro: >
