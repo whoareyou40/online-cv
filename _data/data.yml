@@ -51,7 +51,7 @@ career-profile:
 成功在中文社区推广了Hummingbot这款量化工具，创建了一个上千人的量化社区。
 
 education:
-    title: 教育
+    title: education
     info:
       - degree: 计算机应用
         university: 厦门理工学院
@@ -81,7 +81,7 @@ experiences:
 
 projects:
     title: 项目
-    intro: >
+    intro: 
     assignments:
     
       - title: Hummingbot Miner
