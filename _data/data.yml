@@ -64,11 +64,10 @@ experiences:
         time: 2022 - 至今
         company: Hummingbot基金会
         details: |
-          为Hummingbot建立中文社区。制作帮助新用户入门的内容。帮助用户理解不同的交易策略。
-            - 在中文地区推广Hummingbot
+            - 在中文地区推广Hummingbot，制作帮助新用户入门的内容。帮助用户理解不同的交易策略。
             - Hummingbot策略开发及测试
-            - 发布Hummingbot相关内容
             - 在Hummingbot训练营中担任导师，帮助学员构建Hummingbot策略
+            - 通过AI训练量化交易机器人
       - role: 解决方案顾问/交易员
         time: 2021 - 2022
         company: CoinAlpha
