@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dolm Chen
-    tagline:  社区经理 / 训练营导师 / 解决方案顾问 / 交易员
+    tagline:  基金经理 / 解决方案顾问 / 交易员
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,7 +62,7 @@ education:
 experiences:
     title: 经验
     info:
-      - role: 社区经理/训练营导师
+      - role: 基金经理
         time: 2022 - 至今
         company: Hummingbot基金会
         details: |
