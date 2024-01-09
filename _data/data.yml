@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dolm Chen
-    tagline:  基金经理 / 解决方案顾问 / 交易员
+    tagline: Community Manager / Solution Consultant / Trader
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,16 +23,22 @@ sidebar:
 
 
     languages:
-      title: 语言
+      title: Languages
       info:
-        - idiom: 中文
-          level: 母语
+        - idiom: Chinese
+          level: Native
 
-        - idiom: 英文
-          level: 可作为工作语言
+        - idiom: Hokkien
+          level: Native
+       
+        - idiom: Cantonese
+          level: Professional
+
+        - idiom: English
+          level: Professional
 
     interests:
-      title: 兴趣
+      title: Interests
       info:
         - item: Reading
           link:
@@ -44,78 +50,100 @@ sidebar:
           link:
 
 career-profile:
-    title: 简介
+    title: Career Profile
     summary: |
-        - 拥有量化分析和交易策略开发经验的资深交易员，擅长利用数据分析和模型构建实现投资收益优化。
-        - 熟练掌握Python/Javascript等编程语言，熟悉常用的量化交易平台。
-        - 成功在中文社区推广了Hummingbot这款量化工具，创建了一个上千人的量化社区。
-        - 2023年平均月化收益10%
+        As someone with expertise in community growth and community management, I have honed my trading skills and developed strong writing abilities to achieve optimal results. 
+        In addition, my extensive network within the Chinese community enables me to establish and maintain strong relationships with key stakeholders. 
+        Whether it's building engagement or maximizing ROI, I have the knowledge and experience to ensure successful community growth and management. 
+        With these abilities, I am well-equipped to help organizations achieve their goals and build lasting connections with their audiences.
+
+        In Web2. I am a GIS expert and has worked on several android games In my spare time.
 
 education:
-    title: 教育
+    title: Education
     info:
-      - degree: 计算机应用
-        university: 厦门理工学院
+      - degree: Computer Application Technology
+        university: Xiamen University of Technology
         details: |
 
 
 experiences:
-    title: 经验
+    title: Experiences
     info:
-      - role: 基金经理
-        time: 2022 - 至今
-        company: Hummingbot基金会
+      - role: Community Manager / Botcamp Mentor
+        time: 2021 - Present
+        company: Hummingbot Foundation
         details: |
-            - 在中文地区推广Hummingbot，制作帮助新用户入门的内容。帮助用户理解不同的交易策略。
-            - Hummingbot策略开发及测试
-            - 在Hummingbot训练营中担任导师，帮助学员构建Hummingbot策略
-            - 通过AI训练量化交易机器人
-      - role: 解决方案顾问/交易员
+          Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
+            - Promotion of Hummingbot in Chinese areas
+            - Hummingbot strategy development and debugging
+            - Write content for Hummingbot
+            - Serve as a bootcamp mentor to help students develop strategies
+      - role: Solution Consultant
         time: 2021 - 2022
         company: CoinAlpha
         details: |
-            - 为项目方/交易所提供流动性
-            - 绩效分析及风险管理
-            - 设计及改进挖矿产品
+            - Provide liquidity solutions for the token issuers/exchange
+            - Performance analysis and risk management
+            - Design and improve fluid mining products
+      - role: GIS Consultant/GIS Manager
+        time: 2014 - 2020
+        company: Axline (Shenzhen) Software Technology Ltd
+        details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
+      - role: GIS Senior Software Engineer
+        time: 2008 - 2013
+        company: AECOM Design Centre(Shenzhen)
+        details: GIS technology research, system design, software programming, key technical support, project documentations.
+    
 
 
 projects:
-    title: 项目
-    intro: 
+    title: Projects
+    intro: >
     assignments:
     
       - title: Hummingbot Miner
         link: "miner.hummingbot.io"
-        tagline: "去中心做市模式的流动性挖矿平台."
+        tagline: "Liquidity mining platform with decentralized market making model"
 
-      - title: 商业地产分析系统
+      - title: Commercial real estate analysis system
         link: "#"
-        tagline: "通过强大的分析工具解决商业地产投资分析问题"
+        tagline: "Unlocking the Potential of Property Investment Through Powerful Analysis Tools"
 
-      - title: 运维Saas系统
+      - title: Macau tree management system
         link: "#"
-        tagline: "供运维人员使用的智能Saas系统"
+        tagline: "Helping Macao grow healthier and greener, one tree at a time."
 
 
 publications:
-    title: 作品
+    title: Publications
     intro: |
-      发布的内容
+
     papers:
 
-      - title: "Hummingbot知乎频道"
+      - title: "Trading blog @ Zhihu"
         link: "https://www.zhihu.com/people/dao-mu-70-83"
         authors: 
-        conference: "量化交易知识频道"
+        conference: "Quant trading Knowledge Channel"
       
-      - title: "Hummingbot Youtube 中文频道"
+      - title: "Hummingbot Youtube Chinese Channel"
         link: "https://www.youtube.com/playlist?list=PLDwlNkL_4MMcF1bx7nsIWFRbsS5Prsp5k"
         authors: 
-        conference: "介绍Hummingbot做市及策略的相关内容"
+        conference: "Introduce Hummingbot market making and strategy related video content"
 
+
+      - title: "Blackjack Card Counting Master"
+        link: "#"
+        authors: 
+        conference: "A APP for Blackjack Card Counting"
+
+      - title: Slime Story
+        link: ""
+        authors: 
+        conference: "A platform puzzle game"
 
 skills:
-    title: 技能
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Python 
@@ -137,8 +165,7 @@ skills:
         level: 70%
         
       - name: Crypto Trading (CCXT, Catalyst, AioQuant, Hummingbot)
-        level: 70%
-
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
