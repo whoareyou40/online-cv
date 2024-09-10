@@ -16,7 +16,7 @@ sidebar:
     phone: 86 13510987586
     timezone: UTC +8
     citizenship:
-    website: www.ttggs.com #do not add http://
+    website: 
     telegram: dolm5415
     bitbucket:
     codewars:
@@ -86,8 +86,12 @@ experiences:
             - Provide liquidity solutions for the token issuers/exchange
             - Performance analysis and risk management
             - Design and improve fluid mining products
+      - role: GIS Expert
+        time: 2018 - 2024
+        company: Wayto (Shenzhen) Technology Ltd
+        details: Provide solutions for the application of GIS in land resources, intelligent parks and intelligent operation and maintenance. System architecture design, core code writing, API encapsulation, key technical support, user training.
       - role: GIS Consultant/GIS Manager
-        time: 2014 - 2020
+        time: 2014 - 2017
         company: Axline (Shenzhen) Software Technology Ltd
         details: Provide solutions for GIS in commercial real estate, intelligent parking, residential property management.Pre-sales demonstration, demand analysis, system design, project implementation, key technical support, user training.
       - role: GIS Senior Software Engineer
