@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dolm Chen
-    tagline: Community Manager / Solution Consultant / Trader
+    tagline: Solution Consultant / Trader / Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,12 +52,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+        Experienced trader with quantitative analysis and trading strategy development experience, good at profit 
+        Optimize investment returns with data analysis and model building. 
+        Proficient in programming languages such as Python/Javascript, familiar with common quantities 
+        Change the trading platform.
+        
         As someone with expertise in community growth and community management, I have honed my trading skills and developed strong writing abilities to achieve optimal results. 
         In addition, my extensive network within the Chinese community enables me to establish and maintain strong relationships with key stakeholders. 
         Whether it's building engagement or maximizing ROI, I have the knowledge and experience to ensure successful community growth and management. 
         With these abilities, I am well-equipped to help organizations achieve their goals and build lasting connections with their audiences.
 
-        In Web2. I am a GIS expert and has worked on several android games In my spare time.
+        In Web2. I am a GIS expert with many years of development experience and has worked on several android games In my spare time.
 
 education:
     title: Education
