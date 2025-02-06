@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Dolm Chen
-  tagline: 交易员 | 量化研究员 | 解决方案顾问
+  tagline: 量化研究员 | 解决方案顾问 ｜ 交易员
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -36,27 +36,32 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    具备丰富的做市、量化交易及相关领域工作经验，在做市策略的设计、开发与优化方面积累了深厚的实践经验和独到的见解。
-    擅长运用 Python、R、C++ 等编程语言进行策略开发和数据分析，对市场微结构和各大交易所规则有深入且全面的理解。
+    拥有超过五年做市交易与量化策略开发复合经验，擅长通过数据建模与算法优化提升投资组合收益。
+    擅长Python/JavaScript/C#等编程语言，熟悉主流量化平台技术架构及全球交易所市场规则，对订单流分析、市场微观结构有深度研究。
+    拥有中国加密货币社区关键人脉网络，擅长通过社群运营提升项目流动性与市场声量
+
+    在Web2领域，拥有多年为金融机构、政府部门及大型企业提供数字化转型解决方案的经验，专注于系统架构设计、业务流程优化和技术创新实施。
+    
 
 education:
-  title: Education
+  title: 教育
   info:
-  - degree: Computer Science
-    university: Xiamen University of Technology
+  - degree: 计算机科学
+    university: 厦门理工学院
     details: 
 
 experiences:
-  title: 工作经验
+  title: Web3工作经验
   info:
-  - role: 社区经理和训练营导师
-    time: 2021 - Present
+  - role: 社区经理/训练营导师
+    time: 2021 - 至今
     company: Hummingbot Foundation
     details: |
-      - 做市策略优化与创新：通过对市场数据分析，开发自适应市场波动的定价模型
-      - 实时市场监控与策略调整：密切监控加密货币市场行情，及时捕捉市场趋势变化
-      - 跨团队协作与技术支持：与量化研究团队合作开发新策略，提供技术支持与培训
-      - 风险管理体系构建与流动性管理：建立完善的风险控制框架，管理各大交易所流动性
+      - 建设Hummingbot中文社区
+      - 制作内容帮助新用户入门
+      - 帮助用户理解不同的交易策略
+      - 识别高潜力社区成员进行合作
+      - 为项目及交易所提供咨询及顾问服务
 
   - role: 解决方案顾问
     time: 2021 - 2022
@@ -64,26 +69,23 @@ experiences:
     details: |
       - 定制化做市策略设计：为客户量身定制流动性解决方案
       - 深度市场分析与风险管理：构建风险评估模型，预警潜在风险
-      - 数据驱动的策略优化与报告：使用 Python 和 R 进行策略分析与回测
+      - 设计并优化Hummingbot Miner流动性挖矿产品
 
 projects:
-  title: Projects
+  title: 项目
   intro: >
   assignments:
       - title: Hummingbot Miner
         link: "miner.hummingbot.io"
-        tagline: "Liquidity mining platform with decentralized market making model"
+        tagline: "基于去中心化做市模式的流动性挖矿平台"
 
-      - title: Commercial real estate analysis system
+      - title: 某交易所合约做市系统
         link: "#"
-        tagline: "Unlocking the Potential of Property Investment Through Powerful Analysis Tools"
+        tagline: "以Hummingbot为核心的做市系统"
 
-      - title: Macau tree management system
-        link: "#"
-        tagline: "Helping Macao grow healthier and greener, one tree at a time."
 
 publications:
-  title: Publications
+  title: 内容
   intro: 
   papers:
       - title: "博客@知乎"
