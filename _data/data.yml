@@ -38,7 +38,8 @@ career-profile:
   summary: |
     拥有超过五年做市交易与量化策略开发复合经验，擅长通过数据建模与算法优化提升投资组合收益。
     擅长Python/JavaScript/C#等编程语言，熟悉主流量化平台技术架构及全球交易所市场规则，对订单流分析、市场微观结构有深度研究。
-    拥有中国加密货币社区关键人脉网络，擅长通过社群运营提升项目流动性与市场声量
+
+    拥有中国加密货币社区关键人脉网络，擅长通过社群运营提升项目流动性与市场声量。
 
     在Web2领域，拥有多年为金融机构、政府部门及大型企业提供数字化转型解决方案的经验，专注于系统架构设计、业务流程优化和技术创新实施。
     
@@ -76,7 +77,7 @@ projects:
   intro: >
   assignments:
       - title: Hummingbot Miner
-        link: "miner.hummingbot.io"
+        link: "https://miner.hummingbot.io"
         tagline: "基于去中心化做市模式的流动性挖矿平台"
 
       - title: 某交易所合约做市系统
@@ -93,7 +94,12 @@ publications:
         authors: 
         conference: "量化交易知识频道"
       
-      - title: "Hummingbot中文视频"
+      - title: "Hummingbot中文社区频道"
+        link: "https://www.youtube.com/@ttggs"
+        authors: 
+        conference: "Hummingbot中文社区频道"
+
+      - title: "Hummingbot中文视频(旧)"
         link: "https://www.youtube.com/playlist?list=PLDwlNkL_4MMcF1bx7nsIWFRbsS5Prsp5k"
         authors: 
         conference: "介绍Hummingbot做市策略相关视频内容"
