@@ -57,7 +57,7 @@ experiences:
   - role: 社区经理 ｜ 训练营导师
     time: 2021 - 至今
     company: Hummingbot Foundation
-    details: 
+    details: |
       - 建设Hummingbot中文社区
       - 制作内容帮助新用户入门
       - 帮助用户理解不同的交易策略
@@ -67,7 +67,7 @@ experiences:
   - role: 解决方案顾问
     time: 2021 - 2022
     company: CoinAlpha
-    details: 
+    details: |
       - 定制化做市策略设计：为客户量身定制流动性解决方案
       - 深度市场分析与风险管理：构建风险评估模型，预警潜在风险
       - 设计并优化Hummingbot Miner流动性挖矿产品
