@@ -56,12 +56,28 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: 计算机应用技术
-    university: 厦门理工学院
-    time: [入学时间] - [毕业时间]
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
     details: |
-      主修课程：数学分析、概率论与数理统计、算法设计与分析、数据结构、数据库原理等。
-      这些课程为我在金融量化分析及策略开发方面奠定了坚实的理论基础。
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 experiences:
   title: Experiences
