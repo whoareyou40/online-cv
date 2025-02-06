@@ -9,45 +9,32 @@ sidebar:
 
   # Profile information
   name: Dolm Chen
-  tagline: 交易员 | 量化研究员 | 策略开发
+  tagline: 交易员 | 量化研究员 | 解决方案顾问
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: dolm5415@gmail.com
-  phone: 8618618618618
   timezone: Asia/Beijing # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   telegram: dolm5415
   languages:
-    title: Languages
+    title: 语言
     info:
-    - idiom: English
-      level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: 中文
+      level: 母语
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: 英语
+      level: 专业
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
+    - idiom: 粤语
+      level: 专业
 
 
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
 
 
 career-profile:
-  title: Career Profile
+  title: 概况
   summary: |
     具备丰富的做市、量化交易及相关领域工作经验，在做市策略的设计、开发与优化方面积累了深厚的实践经验和独到的见解。
     擅长运用 Python、R、C++ 等编程语言进行策略开发和数据分析，对市场微结构和各大交易所规则有深入且全面的理解。
@@ -55,31 +42,12 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: Computer Science
+    university: Xiamen University of Technology
+    details: 
 
 experiences:
-  title: Experiences
+  title: 工作经验
   info:
   - role: 社区经理和训练营导师
     time: 2021 - Present
@@ -118,48 +86,34 @@ publications:
   title: Publications
   intro: 
   papers:
-      - title: "Trading blog @ Zhihu"
+      - title: "博客@知乎"
         link: "https://www.zhihu.com/people/dao-mu-70-83"
         authors: 
-        conference: "Quant trading Knowledge Channel"
+        conference: "量化交易知识频道"
       
-      - title: "Hummingbot Youtube Chinese Channel"
+      - title: "Hummingbot中文视频"
         link: "https://www.youtube.com/playlist?list=PLDwlNkL_4MMcF1bx7nsIWFRbsS5Prsp5k"
         authors: 
-        conference: "Introduce Hummingbot market making and strategy related video content"
-
-
-      - title: "Blackjack Card Counting Master"
-        link: "#"
-        authors: 
-        conference: "A APP for Blackjack Card Counting"
-
-      - title: Slime Story
-        link: ""
-        authors: 
-        conference: "A platform puzzle game"
+        conference: "介绍Hummingbot做市策略相关视频内容"
 
 
 skills:
-  title: Skills &amp; Proficiency
+  title: 编程技能
 
   toolset:
-  - name: Python & R
-    level: 95%
-
-  - name: C++
+  - name: Python 
     level: 90%
 
-  - name: 做市策略开发
-    level: 95%
+  - name: Javascript
+    level: 80%
 
-  - name: 风险管理
+  - name: Database/SQL
     level: 90%
 
-  - name: 数据分析
-    level: 95%
+  - name: Linux
+    level: 80%
 
-  - name: 金融市场分析
+  - name: 加密货币交易框架 (Hummingbot，CCXT, Freqtrade, AioQuant)
     level: 90%
 
 footer: >
