@@ -40,7 +40,7 @@ experiences:
   - role: Senior Quantitative Strategist
     time: 2023 - up to now
     company: Hummingbot Foundation
-    details: |
+    details: 
       - Led team developing multiple medium-high frequency trading algorithms optimized for different market cycles
       - Designed and implemented statistical arbitrage strategies based on market microstructure
       - Optimized order execution strategies, reducing slippage costs by 30%
