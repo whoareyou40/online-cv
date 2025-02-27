@@ -20,10 +20,6 @@ career-profile:
   summary: |
     Seasoned quantitative trading specialist with over five years of experience in market making and strategy development, excelling in data modeling and algorithmic optimization to enhance portfolio returns. Proficient in Python/JavaScript/C# programming languages, familiar with mainstream quantitative platform architectures and global exchange market rules, with deep research in order flow analysis and market microstructure.
     
-    Achieved significant success in quantitative trading, managing assets up to $5 million, with strategy portfolios yielding stable annual returns of 25-35%, maximum drawdown controlled within 8%, and Sharpe ratio maintained above 2.5. Delivered 12% positive returns during the 2022 bear market, demonstrating exceptional risk management capabilities.
-    
-    Possesses key connections in both cryptocurrency and traditional financial sectors in China, skilled at leveraging data analysis and strategy optimization to improve asset allocation efficiency and investment returns.
-    
     Extensive experience in providing digital transformation solutions for financial institutions, government departments, and large enterprises in the Web2 sector, with a focus on system architecture design, business process optimization, and the implementation of technology innovations.
     
 
@@ -52,11 +48,10 @@ experiences:
     time: 2021 - up to now
     company: Hummingbot Foundation
     details: |
-        - Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
-        - Promotion of Hummingbot in Chinese areas
-        - Hummingbot strategy development and debugging
-        - Write content for Hummingbot
-        - Serve as a bootcamp mentor to help students develop strategies
+      - Established Chinese developer community (3000+ members)
+      - Authored 15+ technical tutorials on algorithmic trading
+      - Mentored 50+ developers in market-making strategy development
+      - Contributed to 3 core protocol upgrades
 
   - role: Solution Consultant
     time: 2021 - 2022
