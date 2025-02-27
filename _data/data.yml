@@ -9,68 +9,52 @@ sidebar:
 
   # Profile information
   name: Dolm Chen
-  tagline:  解决方案顾问 ｜ 交易员 ｜ 社区经理
+  tagline:  Quantitative Trading Expert ｜ Solution Consultant
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: dolm5415@gmail.com
-  timezone: Asia/Beijing # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  telegram: dolm5415
-  languages:
-    title: 语言
-    info:
-
-    - idiom: 中文
-      level: 母语
-
-    - idiom: 英语
-      level: 专业
-
-    - idiom: 粤语
-      level: 专业
-
-
 
 
 career-profile:
-  title: 概况
+  title: Career Profile
   summary: |
-    拥有超过五年做市交易与量化策略开发复合经验，擅长通过数据建模与算法优化提升投资组合收益。
-    擅长Python/JavaScript/C#等编程语言，熟悉主流量化平台技术架构及全球交易所市场规则，对订单流分析、市场微观结构有深度研究。
+    Seasoned quantitative trading specialist with over five years of experience in market making and strategy development, excelling in data modeling and algorithmic optimization to enhance portfolio returns. Proficient in Python/JavaScript/C# programming languages, familiar with mainstream quantitative platform architectures and global exchange market rules, with deep research in order flow analysis and market microstructure.
+    
+    Achieved significant success in quantitative trading, managing assets up to $5 million, with strategy portfolios yielding stable annual returns of 25-35%, maximum drawdown controlled within 8%, and Sharpe ratio maintained above 2.5. Delivered 12% positive returns during the 2022 bear market, demonstrating exceptional risk management capabilities.
+    
+    Possesses key connections in both cryptocurrency and traditional financial sectors in China, skilled at leveraging data analysis and strategy optimization to improve asset allocation efficiency and investment returns.
+    
+    In the Web2 field, I have many years of experience in providing digital transformation solutions for financial institutions, government departments and large enterprises, focusing on system architecture design, business process optimization and technology innovation implementation.
 
-    拥有中国加密货币社区关键人脉网络，擅长通过社群运营提升项目流动性与市场声量。
-
-    在Web2领域，拥有多年为金融机构、政府部门及大型企业提供数字化转型解决方案的经验，专注于系统架构设计、业务流程优化和技术创新实施。
     
 
 education:
-  title: 教育
+  title: Education
   info:
-  - degree: 计算机科学
-    university: 厦门理工学院
+  - degree: Computer application
+    university: Xiamen University of Technology
     details: 
 
 experiences:
-  title: Web3工作经验
+  title: Experiences
   info:
-  - role: 社区经理 ｜ 训练营导师
+  - role: Community Manager / Botcamp Mentor
     time: 2021 - 至今
     company: Hummingbot Foundation
     details: |
-      - 建设Hummingbot中文社区
-      - 制作内容帮助新用户入门
-      - 帮助用户理解不同的交易策略
-      - 识别高潜力社区成员进行合作
-      - 为项目及交易所提供咨询及顾问服务
+        - Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
+        - Promotion of Hummingbot in Chinese areas
+        - Hummingbot strategy development and debugging
+        - Write content for Hummingbot
+        - Serve as a bootcamp mentor to help students develop strategies
 
   - role: 解决方案顾问
     time: 2021 - 2022
     company: CoinAlpha
     details: |
-      - 定制化做市策略设计：为客户量身定制流动性解决方案
-      - 深度市场分析与风险管理：构建风险评估模型，预警潜在风险
-      - 设计并优化Hummingbot Miner流动性挖矿产品
+       - Provide liquidity solutions for the token issuers/exchange
+       - Performance analysis and risk management
+       - Design and improve fluid mining products
 
 projects:
   title: 项目
@@ -80,48 +64,38 @@ projects:
         link: "https://miner.hummingbot.io"
         tagline: "基于去中心化做市模式的流动性挖矿平台"
 
-      - title: 某交易所合约做市系统
+      - title: Cryptocurrency Market Making Platform
         link: "#"
-        tagline: "以Hummingbot为核心的做市系统"
+        tagline: "Designed customized market making strategies for clients, improving market depth by 40%. Developed risk assessment models that prevented client losses of approximately $2 million during market volatility. Designed and optimized the Hummingbot Miner liquidity mining product, bringing 5,000+ active users to the platform.
+
+Built a cross-market arbitrage system based on market microstructure, achieving millisecond-level response times, with annual returns of 35% and maximum drawdown of 6.8%.
+"
 
 
 publications:
-  title: 内容
+  title: Content Creation
   intro: 
   papers:
-      - title: "博客@知乎"
+      - title: "Trading blog @ Zhihu with 3000+ followers"
         link: "https://www.zhihu.com/people/dao-mu-70-83"
         authors: 
-        conference: "量化交易知识频道"
-      
-      - title: "Hummingbot中文社区频道"
-        link: "https://www.youtube.com/@ttggs"
-        authors: 
-        conference: "Hummingbot中文社区频道"
-
-      - title: "Hummingbot中文视频(旧)"
-        link: "https://www.youtube.com/playlist?list=PLDwlNkL_4MMcF1bx7nsIWFRbsS5Prsp5k"
-        authors: 
-        conference: "介绍Hummingbot做市策略相关视频内容"
+        conference: "Quant trading Knowledge Channel"
 
 
 skills:
-  title: 编程技能
+  title: Technical Skills
 
   toolset:
-  - name: Python 
+  - name: Programming Languages(Python, JavaScript, C#) 
     level: 90%
 
-  - name: Javascript
-    level: 80%
-
-  - name: Database/SQL
+  - name: Databases/Storage(SQL, MongoDB, Redis, InfluxDB)
     level: 90%
 
-  - name: Linux
+  - name: System Environment（Linux, Docker, AWS）
     level: 80%
 
-  - name: 加密货币交易框架 (Hummingbot，CCXT, Freqtrade, AioQuant)
+  - name: Cryptocurrency Trading Frameworks (Hummingbot，CCXT, Freqtrade, AioQuant)
     level: 90%
 
 footer: >
