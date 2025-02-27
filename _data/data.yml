@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Dolm Chen
   tagline:  Quantitative Trading Expert ｜ Solution Consultant
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
 
@@ -47,8 +47,17 @@ experiences:
         - Hummingbot strategy development and debugging
         - Write content for Hummingbot
         - Serve as a bootcamp mentor to help students develop strategies
+  - role: Core member / Botcamp Mentor
+    time: 2021 - up to now
+    company: Hummingbot Foundation
+    details: |
+        - Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
+        - Promotion of Hummingbot in Chinese areas
+        - Hummingbot strategy development and debugging
+        - Write content for Hummingbot
+        - Serve as a bootcamp mentor to help students develop strategies
 
-  - role: 解决方案顾问
+  - role: Solution Consultant
     time: 2021 - 2022
     company: CoinAlpha
     details: |
@@ -57,12 +66,12 @@ experiences:
        - Design and improve fluid mining products
 
 projects:
-  title: 项目
+  title: Project
   intro: >
   assignments:
       - title: Hummingbot Miner
         link: "https://miner.hummingbot.io"
-        tagline: "基于去中心化做市模式的流动性挖矿平台"
+        tagline: "Liquidity mining platform based on decentralized market making model"
 
       - title: Cryptocurrency Market Making Platform
         link: "#"
