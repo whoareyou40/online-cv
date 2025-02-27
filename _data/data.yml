@@ -39,7 +39,7 @@ experiences:
   info:
   - role: Senior Quantitative Strategist
     time: 2023 - up to now
-    company: Hummingbot Foundation
+    company: Hedge Fund
     details: |
       - Led team developing multiple medium-high frequency trading algorithms optimized for different market cycles
       - Designed and implemented statistical arbitrage strategies based on market microstructure
@@ -76,10 +76,11 @@ projects:
 
       - title: Cryptocurrency Market Making Platform
         link: "#"
-        tagline: "Designed customized market making strategies for clients, improving market depth by 40%. Developed risk assessment models that prevented client losses of approximately $2 million during market volatility. Designed and optimized the Hummingbot Miner liquidity mining product, bringing 5,000+ active users to the platform.
-
-Built a cross-market arbitrage system based on market microstructure, achieving millisecond-level response times, with annual returns of 35% and maximum drawdown of 6.8%.
-"
+        tagline: |
+          "Designed customized market making strategies for clients, improving market depth by 40%. 
+          Developed risk assessment models that prevented client losses of approximately $2 million during market volatility. 
+          Designed and optimized the Hummingbot Miner liquidity mining product, bringing 5,000+ active users to the platform.
+          Built a cross-market arbitrage system based on market microstructure, achieving millisecond-level response times, with annual returns of 35% and maximum drawdown of 6.8%."
 
 
 publications:
@@ -96,10 +97,10 @@ skills:
   title: Technical Skills
 
   toolset:
-  - name: Programming Languages(Python, JavaScript, C#) 
+  - name: Programming Languages (Python, JavaScript, C#)
     level: 90%
 
-  - name: Databases/Storage(SQL, MongoDB, Redis, InfluxDB)
+  - name: Databases/Storage (SQL, MongoDB, Redis, InfluxDB)
     level: 90%
 
   - name: System Environment（Linux, Docker, AWS）
