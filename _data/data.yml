@@ -24,8 +24,7 @@ career-profile:
     
     Possesses key connections in both cryptocurrency and traditional financial sectors in China, skilled at leveraging data analysis and strategy optimization to improve asset allocation efficiency and investment returns.
     
-    In the Web2 field, I have many years of experience in providing digital transformation solutions for financial institutions, government departments and large enterprises, focusing on system architecture design, business process optimization and technology innovation implementation.
-
+    Extensive experience in providing digital transformation solutions for financial institutions, government departments, and large enterprises in the Web2 sector, with a focus on system architecture design, business process optimization, and the implementation of technology innovations.
     
 
 education:
@@ -38,15 +37,17 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Community Manager / Botcamp Mentor
-    time: 2021 - 至今
+  - role: Senior Quantitative Strategist
+    time: 2023 - up to now
     company: Hummingbot Foundation
     details: |
-        - Build Chinese community for Hummingbot. Make contents to help new users get started. Help users with understanding the different trading strategies.Identify high potential community members for collaboration with Hummingbot.
-        - Promotion of Hummingbot in Chinese areas
-        - Hummingbot strategy development and debugging
-        - Write content for Hummingbot
-        - Serve as a bootcamp mentor to help students develop strategies
+      - Led team developing multiple medium-high frequency trading algorithms optimized for different market cycles
+      - Designed and implemented statistical arbitrage strategies based on market microstructure
+      - Optimized order execution strategies, reducing slippage costs by 30%
+      - Built real-time risk management systems for 24/7 automated trading monitoring
+      - Applied machine learning techniques to model and predict short-term market volatility
+      - Managed $5-12 million asset pool, with strategy portfolios yielding stable annual returns of 25-35%, maximum drawdown controlled within 8%, and Sharpe ratio maintained above 2.5. 
+
   - role: Core member / Botcamp Mentor
     time: 2021 - up to now
     company: Hummingbot Foundation
