@@ -37,13 +37,11 @@ experiences:
     time: 2023 - up to now
     company: xxx Hedge Fund
     details: |
-      - Led team developing multiple medium-high frequency trading algorithms optimized for different market cycles
-      - Designed and implemented statistical arbitrage strategies based on market microstructure
-      - Optimized order execution strategies, reducing slippage costs by 30%
-      - Built real-time risk management systems for 24/7 automated trading monitoring
-      - Applied machine learning techniques to model and predict short-term market volatility
-      - Managed $5-12 million asset pool, with strategy portfolios yielding stable annual returns of 25-35%, maximum drawdown controlled within 8%, and Sharpe ratio maintained above 2.5. 
-
+      - Led development of 5+ market-making algorithms with 35% avg annual return
+      - Built real-time risk monitoring system reducing operational risks by 40%
+      - Optimized order execution achieving 30ms latency for arbitrage strategies
+      - Managed $5-12M portfolio with Sharpe Ratio 2.5+
+      
   - role: Core Member / Botcamp Mentor
     time: 2021 - up to now
     company: Hummingbot Foundation
@@ -60,6 +58,14 @@ experiences:
        - Provide liquidity solutions for the token issuers/exchange
        - Performance analysis and risk management
        - Design and improve fluid mining products
+  - role: Technical Expert | Consultant
+    time: 2013 - 2020
+  - role: Senior Software Engineer
+    time: 2007 - 2013
+  - role: Software Engineer
+    time: 2001 - 2006
+
+  
 
 projects:
   title: Project
