@@ -47,8 +47,8 @@ experiences:
     company: Hummingbot Foundation
     details: |
       - Established Chinese developer community (3000+ members)
-      - Authored 15+ technical tutorials on algorithmic trading
-      - Mentored 50+ developers in market-making strategy development
+      - Authored 50+ technical tutorials on algorithmic trading
+      - Mentored 50+ traders and developers in algorithmic strategy development
       - Contributed to 3 core protocol upgrades
 
   - role: Solution Consultant
@@ -59,7 +59,7 @@ experiences:
        - Performance analysis and risk management
        - Design and improve fluid mining products
   - role: Technical Expert | Consultant
-    time: 2013 - 2020
+    time: 2013 - 2021
   - role: Senior Software Engineer
     time: 2007 - 2013
   - role: Software Engineer
@@ -87,8 +87,12 @@ publications:
   title: Content Creation
   intro: 
   papers:
-      - title: "Trading blog @ Zhihu with 3000+ followers"
+      - title: "Trading blog @ Zhihu"
         link: "https://www.zhihu.com/people/dao-mu-70-83"
+        authors: 
+        conference: "Quant trading Knowledge Channel"
+      - title: "Youtube Channel"
+        link: "https://www.youtube.com/hummingbot"
         authors: 
         conference: "Quant trading Knowledge Channel"
 
