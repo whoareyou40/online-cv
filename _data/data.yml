@@ -96,6 +96,16 @@ publications:
         authors: 
         conference: "Quant trading Knowledge Channel"
 
+certifications:
+  title: Certifications
+  list:
+  - name: Certified Script Developer
+    organization: Hummingbot Foundation
+    credentialid: 
+    credentialurl: https://hummingbot.org/certification/list/
+    credentialname: Hummingbot
+    details: |
+
 
 skills:
   title: Technical Skills
